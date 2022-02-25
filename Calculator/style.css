@@ -1,0 +1,33 @@
+*,
+*:after,
+*:before{
+margin: 0.3rem;
+padding: 1rem;
+}
+
+body{
+    /* border: 1px solid black; */
+    text-align: center;
+}
+
+button{
+    width: 6rem;
+    background-color: rgb(63, 88, 211);
+}
+
+#bodys{
+    display: inline-block;
+    background-image:  linear-gradient(to right bottom,rgb(9, 236, 20),rgb(53, 38, 185) );
+}
+
+#inputs{
+   display: inline-block;
+    width: 25rem;
+    text-decoration: black;
+    border: 1px solid black;
+}
+
+#zero{
+    width: 20rem;
+    background-color: red;
+}
